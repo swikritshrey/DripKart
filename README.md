@@ -74,7 +74,7 @@ To deploy the project on Vercel:
 Credits : https://youtu.be/7E6um7NGmeE?si=3tdDDz2_2CrXqJwe
 
 ## Contributors
-- **Divanshi Jain** - [GitHub Profile](https://github.com/DivanshiJain2005)
+- **Swikrit Shrey** - [GitHub Profile](https://github.com/swikritshrey)
 
 ## License
 This project is licensed under the MIT License.
